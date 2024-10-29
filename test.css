@@ -1,0 +1,41 @@
+body{
+    background-image:url(../../Downloads/istockphoto-1388619332-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+    
+    
+
+}
+h1{
+    font-size: 40px;
+    padding: 4px;
+    text-align: center;
+    border: 100%;
+    font-family: Verdana;
+}
+h2{
+    color: brown;
+    font-size: 20px;
+    padding: 2px;
+    text-align: center;
+    border: 50%;
+    font-family: Verdana;
+}
+
+p{
+    border: 2px solid powderblue;
+    padding: 40px;
+    margin: 50px;
+    text-emphasis-color: rgb(255,255,255);
+
+}
+img{
+    image-orientation: center;
+    width:500px;
+    height:600px;
+}
